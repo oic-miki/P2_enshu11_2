@@ -1,0 +1,5 @@
+﻿StoreCD,StoreName,StoreNameKana,StorePostal,StoreAddress,StoreAddressKana,StoreTel,StoreFax,StoreMail,StoreDeleteFlg,StoreComments
+S0001,本社,ホンシャ,5430001,大阪市天王寺区上本町6-8-4,オオサカシテンノウジクウエホンマチ6-8-4,0667722233,0667721272,honsya@oic.jp,false,
+S0002,桃谷店,モモダニテン,5440033,大阪市生野区勝山北1-13-22,オオサカシイクノクカツヤマキタ1-13-22,0667415318,0667415319,momodaniten@oic.jp,false,
+S0003,梅田店,ウメダテン,5300001,大阪市北区梅田9-10-30,オオサカシキタクウメダ10-30,0661234567,0661234568,umedaten@oic.jp,false,
+S0004,難波店,ナンバテン,5420001,大阪市浪速区難波中9-20-40,オオサカシナニワクナンバナカ9-20-40,0664567890,0664567891,nanbaten@oic.jp,false,

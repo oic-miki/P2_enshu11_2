@@ -1,0 +1,10 @@
+StaffCD,StaffName,StaffNameKana,StaffPostal,StaffAddress,StaffAddressKana,StaffTel,StaffMobileTel,StaffMail,StaffBirthday,StaffJoinDate,StoreID,PositionID,DivisionID,StaffAuthority,StaffUserID,StaffPassword,StaffDeleteFlg,StaffComments
+A1001,大阪　太郎,オオサカ　タロウ,,,,,,,1965/4/1,2000/4/1,S0001,1,1,1,aaaaa,aaaaa,FALSE,
+A1002,上六　一郎,ウエロク　イチロウ,,,,,,,1968/4/1,2000/4/1,S0001,5,2,1,bbbbb,bbbbb,FALSE,
+A1003,桃谷　二郎,モモダニ　ジロウ,,,,,,,1970/11/1,2000/4/1,S0001,5,3,1,ccccc,ccccc,FALSE,
+A2001,谷町　花子,タニマチ　ハナコ,,,,,,,1980/4/1,2010/4/1,S0002,7,2,2,ddddd,ddddd,FALSE,
+A2002,谷町　一子,タニマチ　イチコ,,,,,,,1990/7/7,2010/4/1,S0002,10,2,3,eeeee,fffff,FALSE,
+A3001,梅田　二子,ウメダ　フタコ,,,,,,,1971/5/5,2000/4/1,S0003,7,2,2,ggggg,hhhhh,FALSE,
+A3002,北　三郎,キタ　サブロウ,,,,,,,1984/5/1,2010/4/1,S0003,10,2,3,iiiii,jjjjj,FALSE,
+A4001,難波　二郎,ナンバ　ジロウ,,,,,,,1975/10/10,2000/4/1,S0004,7,2,2,kkkkk,lllll,FALSE,
+A4002,南　三子,ミナミ　ミコ,,,,,,,1980/8/8,2010/4/1,S0004,10,2,3,mmmmm,nnnnn,FALSE,
